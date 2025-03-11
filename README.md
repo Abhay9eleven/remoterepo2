@@ -1,10 +1,9 @@
-# remoterepo2
-<html>
+# remoterepo2<html>
 <head>
-    <title>My Page</title>
+    <title> this is devops lab 
+    </title>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>Welcome to my website.</p>
+    this is local repo<p>
 </body>
 </html>
